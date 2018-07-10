@@ -1,0 +1,72 @@
+/*Webpage stylesheet*/
+h1{
+  color: #800000;
+ font-size: 55px;
+  text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+h2{
+  color: #b30000;
+font-family: 'Julius Sans One', sans-serif;
+font-size: 35px;
+text-align: center;
+}
+
+h3{
+  text-align: center;
+  color: #660000
+}
+p{
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    length: 30%
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    length: 30%
+}
+
+ul{
+  list-style-type: none;
+
+}
+
+li{
+  display: inline;
+  margin-right: 20px;
+}
+p.large {
+    font-size: 200%;
+}
+
+ul{
+
+  background-color:#ff6666;
+  font-size: 200%;
+  text-align: center;
+
+}
+
+body{
+  background-color:#bfbfbf
+}
+
+
+/* #Fun{
+  color:blue;
+}
+
+.purple{
+  color:#862d59
+} */
